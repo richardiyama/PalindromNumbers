@@ -1,0 +1,6 @@
+c:\users\richard iyama\documents\visual studio 2017\Projects\PalindromNumbers\PalindromNumbers\bin\Debug\PalindromNumbers.exe.config
+c:\users\richard iyama\documents\visual studio 2017\Projects\PalindromNumbers\PalindromNumbers\bin\Debug\PalindromNumbers.exe
+c:\users\richard iyama\documents\visual studio 2017\Projects\PalindromNumbers\PalindromNumbers\bin\Debug\PalindromNumbers.pdb
+c:\users\richard iyama\documents\visual studio 2017\Projects\PalindromNumbers\PalindromNumbers\obj\Debug\PalindromNumbers.csprojResolveAssemblyReference.cache
+c:\users\richard iyama\documents\visual studio 2017\Projects\PalindromNumbers\PalindromNumbers\obj\Debug\PalindromNumbers.exe
+c:\users\richard iyama\documents\visual studio 2017\Projects\PalindromNumbers\PalindromNumbers\obj\Debug\PalindromNumbers.pdb
